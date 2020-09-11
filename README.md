@@ -27,36 +27,36 @@ During the development of this project the following lenguages and tools were us
 
 Neuron 1 Configuration:
 
-<img alt="Neuron 1 Configuration" width="650" src="\img\Neuron1Config.PNG"/>
+<img alt="Neuron 1 Configuration" width="650" src="/img/Neuron1Config.PNG"/>
 
 Neuron 1 Stimulus Graph:
 
-<img alt="Neuron 1 Stimulus Graph" width="650" src="\img\Neuron1StimulusGraph.PNG"/>
+<img alt="Neuron 1 Stimulus Graph" width="650" src="/img/Neuron1StimulusGraph.PNG"/>
 
 Neuron 1 In Fire Graph:
 
-<img alt="Neuron 1 In Fire Graph" width="650" src="\img\Neuron1InFireGraph.PNG"/>
+<img alt="Neuron 1 In Fire Graph" width="650" src="/img/Neuron1InFireGraph.PNG"/>
 
 Neuron 2 Configuration:
 
-<img alt="Neuron 2 Configuration" width="650" src="\img\Neuron2Config.PNG"/>
+<img alt="Neuron 2 Configuration" width="650" src="/img/Neuron2Config.PNG"/>
 
 Neuron 2 Stimulus Graph:
 
-<img alt="Neuron 2 Stimulus Graph" width="650" src="\img\Neuron2StimulusGraph.PNG"/>
+<img alt="Neuron 2 Stimulus Graph" width="650" src="/img/Neuron2StimulusGraph.PNG"/>
 
 Neuron 2 In Fire Graph:
 
-<img alt="Neuron 2 In Fire Graph" width="650" src="\img\Neuron2InFireGraph.PNG"/>
+<img alt="Neuron 2 In Fire Graph" width="650" src="/img/Neuron2InFireGraph.PNG"/>
 
 Neuron 3 Configuration:
 
-<img alt="Neuron 3 Configuration" width="650" src="\img\Neuron3Config.PNG"/>
+<img alt="Neuron 3 Configuration" width="650" src="/img/Neuron3Config.PNG"/>
 
 Neuron 3 Stimulus Graph:
 
-<img alt="Neuron 3 Stimulus Graph" width="650" src="\img\Neuron3StimulusGraph.PNG"/>
+<img alt="Neuron 3 Stimulus Graph" width="650" src="/img/Neuron3StimulusGraph.PNG"/>
 
 Neuron 3 In Fire Graph:
 
-<img alt="Neuron 3 In Fire Graph" width="650" src="\img\Neuron3InFireGraph.PNG"/>
+<img alt="Neuron 3 In Fire Graph" width="650" src="/img/Neuron3InFireGraph.PNG"/>
