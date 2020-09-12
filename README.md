@@ -12,7 +12,7 @@ This project was developed by two other engineers and my self during the second 
 
 ## Development:
 
-To develop this project, first, the team had to research thoroughly how the neurons works and how they connect between each other to be able to simulate the neuron as accurately as possible.
+To develop this project, first, the team had to research thoroughly how the neurons works and how they connect between each other to be able to simulate the neuron as accurately as possible. Once the team had a good understanding of how the neurons works and what parameters we needed to implement, we started designing the user interface. First, we added only one neuron, implementing the first stimulus parameters and the neuron parameters, so we can test that everything works as intended. For the graphs we use the java plotting libraries that were provided to us. Once the first neuron was completely working, we started to implement the second one. For this we had to calculate the stimulus of the second neuron based on the in-fire outcome of the first neuron and the synapsis parameters of the second one. Then we tested the two neurons together checking that both behave has expected and produce the correct graphs. Finally, we implemented the third neuron, which was relatability easy since we only had to repeat the process of the first and second neurons but with the second and third neurons.
 
 
 ## Languages and tools:
