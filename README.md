@@ -4,7 +4,7 @@ Develop from January 2019 to June 2019 in Madrid, Spain.
 
 ## About:
 
-About
+Java application that simulates the neuron electric interaction during the synapsis process, showing the graph of the stimulus in nanoamperes and the graph of the in fire in millivolts of each neuron. The program allows you to connect up to 3 neurons to see how they interact with each other. The application also let you to modify the parameters of each neuron to see the outcome graphs, allowing you to modify the first stimulus parameters, the neuron parameters, and the synapsis parameters. From the first stimulus you can modify stimulus start time(ms), stimulus end time(ms), simulation end time(ms), stimulus intensity(nA) and temporal resolution(ms). From the neuron you can modify resistance(MOh), tau(ms), standby voltage(mV), in fire voltage(mV), reset voltage(mV) and spike voltage(mV). Finally, from the synapsis you can modify spike intensity(mV) and spike duration(ms).
 
 ## Team:
 
@@ -12,7 +12,7 @@ This project was developed by two other engineers and my self during the second 
 
 ## Development:
 
-Development
+To develop this project, first, the team had to research thoroughly how the neurons works and how they connect between each other to be able to simulate the neuron as accurately as possible.
 
 
 ## Languages and tools:
